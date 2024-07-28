@@ -2306,6 +2306,18 @@
 		(uuid "4403c0d4-2270-4581-a0ca-257cff3e15c2")
 	)
 	(no_connect
+		(at 144.78 72.39)
+		(uuid "44855bc1-42de-45c6-b12f-7b3327d8776e")
+	)
+	(no_connect
+		(at 144.78 87.63)
+		(uuid "64b95757-9d14-4243-ba0f-273259539d28")
+	)
+	(no_connect
+		(at 144.78 105.41)
+		(uuid "be1f105a-cfd1-49d0-8fb6-92261f2504ed")
+	)
+	(no_connect
 		(at 187.96 125.73)
 		(uuid "f5fd0780-084a-4d84-b700-e2a70883d082")
 	)
@@ -4310,7 +4322,7 @@
 	)
 	(symbol
 		(lib_id "NyaCentralenheten:Switch")
-		(at 233.68 77.47 0)
+		(at 243.84 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4318,7 +4330,7 @@
 		(dnp no)
 		(uuid "13797e9a-7cd3-4811-9f36-e81527e2f718")
 		(property "Reference" "SW4"
-			(at 236.22 74.93 0)
+			(at 246.38 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4326,7 +4338,7 @@
 			)
 		)
 		(property "Value" "TS04-66-65-BK-160-SMT"
-			(at 233.68 80.01 0)
+			(at 243.84 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4335,7 +4347,7 @@
 			)
 		)
 		(property "Footprint" "AutoTiller:TS04-66-65-BK-160-SMT"
-			(at 233.68 77.47 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4344,7 +4356,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.cuidevices.com/product/resource/ts04.pdf"
-			(at 233.68 77.47 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4353,7 +4365,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 77.47 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4378,7 +4390,7 @@
 	)
 	(symbol
 		(lib_id "NyaCentralenheten:Switch")
-		(at 256.54 82.55 0)
+		(at 222.25 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4386,7 +4398,7 @@
 		(dnp no)
 		(uuid "238f257f-6c9b-4ef1-859c-e8460f73a2a7")
 		(property "Reference" "SW6"
-			(at 259.08 80.01 0)
+			(at 224.79 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +4406,7 @@
 			)
 		)
 		(property "Value" "TS04-66-65-BK-160-SMT"
-			(at 256.54 85.09 0)
+			(at 222.25 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4403,7 +4415,7 @@
 			)
 		)
 		(property "Footprint" "AutoTiller:TS04-66-65-BK-160-SMT"
-			(at 256.54 82.55 0)
+			(at 222.25 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4412,7 +4424,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.cuidevices.com/product/resource/ts04.pdf"
-			(at 256.54 82.55 0)
+			(at 222.25 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4421,7 +4433,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 82.55 0)
+			(at 222.25 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4730,7 +4742,7 @@
 	)
 	(symbol
 		(lib_id "NyaCentralenheten:Switch")
-		(at 243.84 80.01 0)
+		(at 256.54 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4738,7 +4750,7 @@
 		(dnp no)
 		(uuid "6909d3eb-27bd-4aed-94d2-3f0ae72797f8")
 		(property "Reference" "SW5"
-			(at 246.38 77.47 0)
+			(at 259.08 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +4758,7 @@
 			)
 		)
 		(property "Value" "TS04-66-65-BK-160-SMT"
-			(at 243.84 82.55 0)
+			(at 256.54 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4755,7 +4767,7 @@
 			)
 		)
 		(property "Footprint" "AutoTiller:TS04-66-65-BK-160-SMT"
-			(at 243.84 80.01 0)
+			(at 256.54 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4764,7 +4776,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.cuidevices.com/product/resource/ts04.pdf"
-			(at 243.84 80.01 0)
+			(at 256.54 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4773,7 +4785,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 80.01 0)
+			(at 256.54 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4936,7 +4948,7 @@
 	)
 	(symbol
 		(lib_id "NyaCentralenheten:Switch")
-		(at 266.7 85.09 0)
+		(at 233.68 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4944,7 +4956,7 @@
 		(dnp no)
 		(uuid "7dba53f7-8caa-47b9-a48a-a968dce976dc")
 		(property "Reference" "SW7"
-			(at 269.24 82.55 0)
+			(at 236.22 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +4964,7 @@
 			)
 		)
 		(property "Value" "TS04-66-65-BK-160-SMT"
-			(at 266.7 87.63 0)
+			(at 233.68 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +4973,7 @@
 			)
 		)
 		(property "Footprint" "AutoTiller:TS04-66-65-BK-160-SMT"
-			(at 266.7 85.09 0)
+			(at 233.68 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +4982,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.cuidevices.com/product/resource/ts04.pdf"
-			(at 266.7 85.09 0)
+			(at 233.68 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,7 +4991,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 266.7 85.09 0)
+			(at 233.68 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5950,7 +5962,7 @@
 	)
 	(symbol
 		(lib_id "NyaCentralenheten:Switch")
-		(at 222.25 74.93 0)
+		(at 266.7 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5958,7 +5970,7 @@
 		(dnp no)
 		(uuid "bfd09525-2f57-42f0-8293-ffe4dcad5106")
 		(property "Reference" "SW3"
-			(at 224.79 72.39 0)
+			(at 269.24 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5966,7 +5978,7 @@
 			)
 		)
 		(property "Value" "TS04-66-65-BK-160-SMT"
-			(at 222.25 77.47 0)
+			(at 266.7 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5975,7 +5987,7 @@
 			)
 		)
 		(property "Footprint" "AutoTiller:TS04-66-65-BK-160-SMT"
-			(at 222.25 74.93 0)
+			(at 266.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5984,7 +5996,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.cuidevices.com/product/resource/ts04.pdf"
-			(at 222.25 74.93 0)
+			(at 266.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5993,7 +6005,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 74.93 0)
+			(at 266.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)

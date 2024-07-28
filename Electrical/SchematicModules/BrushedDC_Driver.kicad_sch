@@ -1153,6 +1153,16 @@
 		)
 		(uuid "0d2aa1d8-88cc-4479-8d9e-50aaf3bc32ce")
 	)
+	(text "Swapped for layout reasons"
+		(exclude_from_sim no)
+		(at 174.498 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc5e60ac-7b13-4842-affa-1043d279f468")
+	)
 	(hierarchical_label "GND"
 		(shape output)
 		(at 173.99 105.41 0)
@@ -1203,7 +1213,7 @@
 	)
 	(hierarchical_label "OUT_2"
 		(shape output)
-		(at 161.29 109.22 0)
+		(at 161.29 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1227,7 +1237,7 @@
 	)
 	(hierarchical_label "OUT_1"
 		(shape output)
-		(at 161.29 106.68 0)
+		(at 161.29 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
