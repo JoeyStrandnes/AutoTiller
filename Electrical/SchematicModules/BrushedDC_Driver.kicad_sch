@@ -1755,8 +1755,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "b5ca5cfb-a6b2-498b-8926-70b269121eda")
 		(property "Reference" "C18"
 			(at 172.72 78.74 0)

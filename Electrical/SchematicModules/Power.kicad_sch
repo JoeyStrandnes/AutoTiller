@@ -1010,8 +1010,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "71aa2522-288a-468d-8c59-88c5ae3f8aa4")
 		(property "Reference" "C9"
 			(at 132.08 99.06 0)
